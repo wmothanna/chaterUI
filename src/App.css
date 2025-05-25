@@ -1,0 +1,54 @@
+@font-face {
+    font-family: Alexandria;
+    font-weight: 100;
+    font-display: swap;
+    src: url("/public/fonts/Alexandria/Alexandria-Thin.ttf")
+}
+@font-face {
+    font-family: Alexandria;
+    font-weight: 200;
+    font-display: swap;
+    src: url("/public/fonts/Alexandria/Alexandria-ExtraLight.ttf")
+}
+@font-face {
+    font-family: Alexandria;
+    font-weight: 300;
+    font-display: swap;
+    src: url("/public/fonts/Alexandria/Alexandria-Light.ttf")
+}
+@font-face {
+    font-family: Alexandria;
+    font-weight: 400;
+    font-display: swap;
+    src: url("/public/fonts/Alexandria/Alexandria-Regular.ttf")
+}
+@font-face {
+    font-family: Alexandria;
+    font-weight: 500;
+    font-display: swap;
+    src: url("/public/fonts/Alexandria/Alexandria-Medium.ttf")
+}
+@font-face {
+    font-family: Alexandria;
+    font-weight: 600;
+    font-display: swap;
+    src: url("/public/fonts/Alexandria/Alexandria-SemiBold.ttf")
+}
+@font-face {
+    font-family: Alexandria;
+    font-weight: 700;
+    font-display: swap;
+    src: url("/public/fonts/Alexandria/Alexandria-Bold.ttf")
+}
+@font-face {
+    font-family: Alexandria;
+    font-weight: 800;
+    font-display: swap;
+    src: url("/public/fonts/Alexandria/Alexandria-ExtraBold.ttf")
+}
+@font-face {
+    font-family: Alexandria;
+    font-weight: 900;
+    font-display: swap;
+    src: url("/public/fonts/Alexandria/Alexandria-Black.ttf")
+}
