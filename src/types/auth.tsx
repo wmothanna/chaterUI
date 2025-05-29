@@ -9,3 +9,13 @@ export interface registrationFormErrors {
     email: string,
     password: string,
 };
+
+export interface loginFields {
+    usernameOrEmail: string,
+    password: string,
+};
+export interface loginFormErrors {
+    generic: string,
+    usernameOrEmail: string,
+    password: string,
+};
